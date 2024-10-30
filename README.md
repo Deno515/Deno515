@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deno515
 - 👀 I’m interested in Php,CSS,Python Programming.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & AI For Business Automation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +971 58 299 7426
 
